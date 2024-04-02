@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @spookieoli (Oliver Sharif)
-- 👀 I’m interested in Programming / Neural Nets / Tensorflow
-- 🌱 I’m currently learning MORE TENSORFLOW
-- 💞️ I’m looking to collaborate on Innovative ML Projects
+- 👀 I’m interested in Programming / Neural Nets / Go / Python / V
+- 🌱 I’m currently learning - Go / Python / V
+- 💞️ I’m looking to collaborate on Innovative ML Projects / Data Projects
 - 📫 How to reach me just pm me :)
 
 <!---
